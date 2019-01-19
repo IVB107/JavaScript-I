@@ -30,7 +30,7 @@ const kennan = {
     "email": "kdiben1@tinypic.com",
     "gender": "M"
   };
-const kevin = {
+const keven = {
     "id": 3,
     "name": "Kevin",
     "email": "kmummery2@wikimedia.org",
